@@ -41,7 +41,7 @@ Python 3.11 · Linux · CIX P1 / NOE SDK (`libnoe`). Image input runs GenD only.
 
 ## Models
 
-Weights are **not** in the repo — see [`model/README.md`](model/README.md).
+Weights are **not** in the repo — see “https://drive.google.com/drive/folders/1587sGU4GkQUIDSF2B7Yl8JgFT24sd8CH?usp=drive_link”.
 
 | File | Backend | Task |
 |---|---|---|
