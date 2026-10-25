@@ -4,7 +4,8 @@ Real-time digital human content audit on the CIX (此芯科技) P1 edge board: d
 
 **One Python file · offline · ≈ 9 FPS (≈ 111 ms/frame) · video never leaves the device**
 
-[record.ts_20261025_095921.725.bmp](https://github.com/user-attachments/files/33921115/record.ts_20261025_095921.725.bmp)
+<img width="3088" height="1708" alt="image" src="https://github.com/user-attachments/assets/4635cc99-0761-4c49-b41d-b6170d1abf41" />
+
 
 
 > 2026 CIX Agentic AI Developer Contest「芯智涌现」· Edge On-Device Inference Agent  
