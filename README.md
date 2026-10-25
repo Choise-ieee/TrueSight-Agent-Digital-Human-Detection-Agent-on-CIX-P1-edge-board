@@ -53,4 +53,13 @@ Weights are **not** in the repo — see “https://drive.google.com/file/d/1_pUA
 
 CNN goes to NPU; GenD stays on CPU **by design** — face-swap needs fine logit gaps that PTQ cannot hold (7 conversion rounds verified; detection heads are fine on the same chain). I-frame rate ≈ 0.5/s, so CPU cost is negligible. Roadmap: **CPU + NPU + GPU**.
 
+## Thanks
+Thanks for their extremelly perfect work.
 
+@InProceedings{GenD,
+  author    = {Yermakov, Andrii and Cech, Jan and Matas, Jiri and Fritz, Mario},
+  title     = {Deepfake Detection that Generalizes Across Benchmarks},
+  booktitle = {Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
+  month     = {March},
+  year      = {2026},
+}
