@@ -1,0 +1,15 @@
+# core
+opencv-python>=4.8      # tested: 4.11.0.86
+numpy>=1.26             # tested: 2.4.6
+matplotlib>=3.7         # tested: 3.11.2
+pillow>=10.0            # tested: 10.4.0
+
+# face-swap (GenD) + I-frame pipeline
+onnxruntime>=1.17       # tested: vendor build onnxruntime-zhouyi 1.20.0 (same module name)
+av>=12.0                # tested: 18.1.0
+
+# analysis helpers
+scipy>=1.11             # tested: 1.16.3
+scikit-learn>=1.4       # tested: 1.9.1
+
+# tkinter comes from the system/conda, not pip:  apt install python3-tk  (or conda install tk)
