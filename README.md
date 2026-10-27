@@ -6,6 +6,7 @@ Real-time digital human content audit on the CIX (此芯科技) P1 edge board: d
 
 <img width="3088" height="1708" alt="image" src="https://github.com/user-attachments/assets/4635cc99-0761-4c49-b41d-b6170d1abf41" />
 
+<img width="3116" height="1750" alt="image" src="https://github.com/user-attachments/assets/60dc5871-1dc4-4014-955e-a9290b554cfe" />
 
 
 > 2026 CIX Agentic AI Developer Contest「芯智涌现」· Edge On-Device Inference Agent  
